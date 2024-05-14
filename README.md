@@ -1,6 +1,16 @@
-# flutter_topic6
-In this task we have got a lot of videos, and we learn about new functions. About navigator and lists. Also I learn about how we use colors(style) in this project.
-The "RegisterForm" application serves as a basic example of form handling and user input validation in Flutter. It provides a starting point for developers to understand and implement similar functionality in their own applications.
-A "RegisterForm" Flutter application is a mobile application developed using the Flutter framework, which allows users to register by filling out a form with their personal information.
+# zhana_work
 
-The "RegisterForm" application typically consists of the following components
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
