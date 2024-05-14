@@ -1,4 +1,4 @@
-![Снимок экрана 2024-05-14 121910](https://github.com/MadinaEleubaeva/flutter_topic6/assets/144671319/1f2017a4-30e9-4a94-a8e7-29666eebb4cd)![Снимок экрана 2024-05-14 121910](https://github.com/MadinaEleubaeva/flutter_topic6/assets/144671319/b8d760c8-99de-4b61-a485-4fef04e7e77d)# zhana_work
+ zhana_work
 
 A new Flutter project.
 
